@@ -20,5 +20,5 @@ Read the full analysis and interpretation (in Bahasa Indonesia):
 
 ## 📁 Repository Contents
 
-- `dpr_agenda_2023.csv`  
+- `dpr_agenda.xlsx`  
   Dataset scraped from the official DPR RI agenda calendar (https://www.dpr.go.id).
